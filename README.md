@@ -1,5 +1,5 @@
 # simple-gcm-deep-learning
-code developed for the paper "Toward Data‐Driven Weather and Climate Forecasting: Approximating a Simple General Circulation Model With Deep Learning" (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080704)
+code developed for the paper "Toward Data‐Driven Weather and Climate Forecasting: Approximating a Simple General Circulation Model With Deep Learning"(2018) by S. Scher (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL080704)
 
 The aim is to train a deep convolutional network on a run of a simplified general circulation model (climate model), using Keras and Tensorflow.
 A sample of the climate model data can be found in the accompanying zenodo repository (10.5281/zenodo.1472023)
