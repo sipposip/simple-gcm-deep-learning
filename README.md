@@ -4,6 +4,8 @@ code developed for the paper "Toward Data‐Driven Weather and Climate Forecasti
 The aim is to train a deep convolutional network on a run of a simplified general circulation model (climate model), using Keras and Tensorflow.
 A sample of the climate model data can be found in the accompanying zenodo repository (10.5281/zenodo.1472023)
 
+![Alt text](./network_prediction_skill.svg)
+
 
 [puma_CNN_preprocess_inputdata.py](puma_CNN_preprocess_inputdata.py) processed the raw climate model output data into a form suitable for the training
 
